@@ -14,7 +14,7 @@ requirements: [
   graphite/30
   lead/20
 ]
-category: crafting
+category: production
 research: mechanical-drill
 idleSound: respawning
 idleSoundVolume: 0.2
