@@ -1,0 +1,6 @@
+name: "More Walls"
+displayName: "More Walls"
+author: "Someone"
+description: "Adds a few more resources and walls. I can't draw so no sprites for some blocks"
+version: "0.1"
+minGameVersion: "105"

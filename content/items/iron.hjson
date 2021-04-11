@@ -1,0 +1,6 @@
+type: material
+name: Iron
+description: A common resource with moderate strength.
+hardness: 2
+cost: 1
+color: d5dbe4
