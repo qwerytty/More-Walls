@@ -5,7 +5,7 @@ health: 1420
 size: 2
 buildCostMultiplier: 0.5
 requirements: [
-  lead/30
+  lead/24
 ]
 category: defense
 research: lead-wall

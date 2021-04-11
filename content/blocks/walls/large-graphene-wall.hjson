@@ -5,7 +5,7 @@ health: 5000
 size: 2
 buildCostMultiplier: 0.5
 requirements: [
-  graphene/28
+  graphene/24
 ]
 category: defense
 research: graphene-wall
