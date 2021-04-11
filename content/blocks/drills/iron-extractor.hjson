@@ -3,7 +3,7 @@ name: Iron extractor
 description: Uses power to mine iron. Does not need to be placed on a specific block
 size: 2
 hasPower: true
-hasItems: false
+hasItems: true
 craftTime: 20
 craftEffect: smeltsmoke
 consumes: {
