@@ -1,9 +1,9 @@
-name: "More Walls"
+name: "More-Walls"
 displayName: "More Walls"
-author: "Someone"
+author: "Qweryt"
 description: "Adds a few more resources and walls. I can't draw so no sprites for some blocks"
 version: "0.1"
-minGameVersion: "105"
+minGameVersion: "126.2"
 dependencies: []
 hidden: false
 repo: qwerytty/More-Walls
