@@ -4,6 +4,6 @@ author: "Qweryt"
 description: "Adds a few more resources and walls. I can't draw so no sprites for some blocks"
 version: "0.1"
 minGameVersion: "126.1"
-dependencies: []
+dependencies: [ ]
 hidden: false
 repo: qwerytty/More-Walls
