@@ -6,4 +6,3 @@ version: "0.1"
 minGameVersion: "126.1"
 dependencies: [ ]
 hidden: false
-repo: qwerytty/More-Walls
